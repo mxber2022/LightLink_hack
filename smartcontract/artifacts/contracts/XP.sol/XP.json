@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "XP",
+  "sourceName": "contracts/XP.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220e6a8a3b82c7a3cee5ca229ce08f8b0ecabda293a561502c7a0862dd6cf4ec90564736f6c63430008000033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220e6a8a3b82c7a3cee5ca229ce08f8b0ecabda293a561502c7a0862dd6cf4ec90564736f6c63430008000033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
